@@ -6,7 +6,7 @@ I'm interested in cybersecurity, Linux, and network security, with a focus on un
 - Cybersecurity & Information Security
 - Linux & System Administration
 - Networking & Network Security
-- Ethical Hacking
+- Pen Tester
 
 ### Currently Exploring
 - Linux environments and command-line tools
